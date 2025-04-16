@@ -7,7 +7,7 @@
         "light": "#ffffff",
         "dark": "#000000"
     },
-    "favicon": "images/2.png",
+    "favicon": "images/3.png",
     "navigation": {
         "tabs": [
             {
@@ -50,8 +50,8 @@
         }
     },
     "logo": {
-        "light": "/images/2.png",
-        "dark": "/images/2.png"
+        "light": "/images/3.png",
+        "dark": "/images/3.png"
     },
     "navbar": {
         "links": [
