@@ -39,7 +39,7 @@
                 {
                     "anchor": "Dashboard",
                     "href": "https://bot.prismboat.com/",
-                    "icon": "dashboard"
+                    "icon": "grid-horizontal"
                 },
                 {
                     "anchor": "Support",
