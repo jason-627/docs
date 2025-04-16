@@ -1,7 +1,7 @@
 {
     "$schema": "https://bot.prismboat.com/",
     "theme": "willow",
-    "name": "PrismBoat Docs",
+    "name": "PrismBoat",
     "colors": {
         "primary": "#396cc9",
         "light": "#ffffff",
