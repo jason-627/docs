@@ -37,9 +37,9 @@
         "global": {
             "anchors": [
                 {
-                    "anchor": "Documentation",
-                    "href": "https://docs.prismboat.com/",
-                    "icon": "book-open-cover"
+                    "anchor": "Dashboard",
+                    "href": "https://bot.prismboat.com/",
+                    "icon": "dashboard"
                 },
                 {
                     "anchor": "Support",
