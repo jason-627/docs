@@ -1,11 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+  "$schema": "https://bot.prismboat.com",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "PrismBoat Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#396cc9",
+    "light": "#ffffff",
+    "dark": "#000000"
   },
   "favicon": "images/2.png",
   "navigation": {
@@ -16,7 +16,7 @@
           {
             "group": "PrismBoat",
             "pages": [
-              "docs",
+              "setup",
               "quickstart",
               "development"
             ]
