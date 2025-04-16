@@ -1,5 +1,5 @@
 {
-  "$schema": "https://bot.prismboat.com",
+  "$schema": "https://bot.prismboat.com/",
   "theme": "mint",
   "name": "PrismBoat Docs",
   "colors": {
@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "PrismBoat",
+            "group": "Quick Start",
             "pages": [
               "docs",
               "quickstart",
@@ -59,19 +59,14 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.prismboat.com/",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Support",
+          "href": "https://discord.prismboat.com/",
+          "icon": "discord"
         },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
       ]
     }
   },
