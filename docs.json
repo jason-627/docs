@@ -1,94 +1,94 @@
 {
-  "$schema": "https://bot.prismboat.com/",
-  "theme": "mint",
-  "name": "PrismBoat Docs",
-  "colors": {
-    "primary": "#396cc9",
-    "light": "#ffffff",
-    "dark": "#000000"
-  },
-  "favicon": "images/2.png",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Quick Start",
-            "pages": [
-              "docs",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://docs.prismboat.com/",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Support",
-          "href": "https://discord.prismboat.com/",
-          "icon": "discord"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/images/2.png",
-    "dark": "/images/2.png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "https://discord.prismboat.com/"
-      }
-    ],
-    "primary": {
-      "label": "Dashboard",
-      "href": "https://bot.prismboat.com/"
-    }
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.prismboat.com/"
-    }
-  }
+	"$schema": "https://bot.prismboat.com/",
+	"theme": "mint",
+	"name": "PrismBoat Docs",
+	"colors": {
+		"primary": "#396cc9",
+		"light": "#ffffff",
+		"dark": "#000000"
+	},
+	"favicon": "images/2.png",
+	"navigation": {
+		"tabs": [
+			{
+				"tab": "Guides",
+				"groups": [
+					{
+						"group": "Quick Start",
+						"pages": [
+							"docs",
+							"quickstart",
+							"development"
+						]
+					},
+					{
+						"group": "Essentials",
+						"pages": [
+							"essentials/markdown",
+							"essentials/code",
+							"essentials/images",
+							"essentials/settings",
+							"essentials/navigation",
+							"essentials/reusable-snippets"
+						]
+					}
+				]
+			},
+			{
+				"tab": "API Reference",
+				"groups": [
+					{
+						"group": "API Documentation",
+						"pages": [
+							"api-reference/introduction"
+						]
+					},
+					{
+						"group": "Endpoint Examples",
+						"pages": [
+							"api-reference/endpoint/get",
+							"api-reference/endpoint/create",
+							"api-reference/endpoint/delete",
+							"api-reference/endpoint/webhook"
+						]
+					}
+				]
+			}
+		],
+		"global": {
+			"anchors": [
+				{
+					"anchor": "Documentation",
+					"href": "https://docs.prismboat.com/",
+					"icon": "book-open-cover"
+				},
+				{
+					"anchor": "Support",
+					"href": "https://discord.prismboat.com/",
+					"icon": "discord"
+				}
+			]
+		}
+	},
+	"logo": {
+		"light": "/images/2.png",
+		"dark": "/images/2.png"
+	},
+	"navbar": {
+		"links": [
+			{
+				"label": "Support",
+				"href": "https://discord.prismboat.com/"
+			}
+		],
+		"primary": {
+			"label": "Dashboard",
+			"href": "https://bot.prismboat.com/"
+		}
+	},
+	"footer": {
+		"socials": {
+			"discord": "https://discord.prismboat.com/"
+		}
+	}
 }
