@@ -82,6 +82,7 @@
 			}
 		],
 		"primary": {
+            "type": "Button"
 			"label": "Dashboard",
 			"href": "https://bot.prismboat.com/"
 		}
