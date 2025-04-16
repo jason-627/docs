@@ -94,9 +94,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.prismboat.com/",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.prismboat.com/"
     }
   }
 }
