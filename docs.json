@@ -16,7 +16,7 @@
           {
             "group": "PrismBoat",
             "pages": [
-              "setup",
+              "docs",
               "quickstart",
               "development"
             ]
