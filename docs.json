@@ -24,8 +24,7 @@
                     {
                         "group": "Commands",
                         "pages": [
-                            "commands",
-                            "/commands/code",
+                            "/commands/overview",
                             "/commands/images",
                             "/commands/settings",
                             "/commands/navigation",
