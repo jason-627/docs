@@ -25,11 +25,11 @@
                         "group": "Commands",
                         "pages": [
                             "commands",
-                            "commands/code",
-                            "commands/images",
-                            "commands/settings",
-                            "commands/navigation",
-                            "commands/reusable-snippets"
+                            "/commands/code",
+                            "/commands/images",
+                            "/commands/settings",
+                            "/commands/navigation",
+                            "/commands/reusable-snippets"
                         ]
                     }
                 ]
