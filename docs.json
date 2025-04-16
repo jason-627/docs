@@ -83,7 +83,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "https://support.prismboat.com/"
+        "href": "https://discord.prismboat.com/"
       }
     ],
     "primary": {
@@ -94,7 +94,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
+      "discord": "https://discord.prismboat.com/",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
