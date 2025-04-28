@@ -4,25 +4,93 @@ description: "All the Commands of PrismBoat"
 icon: "code"
 ---
 
+## Moderation
+
 <CardGroup cols="2">
-  <Card title="Timeout Command" icon="clock" iconType="solid" color="#396cc9" href="https://docs.prismboat.com/commands/code">
+  <Card title="Timeout" icon="clock" iconType="solid" color="#396cc9" href="https://docs.prismboat.com/commands/code">
     \!timeout (user) (duration) \<reason\>
 
     \!timeout @mxybecookie 7d spamming
   </Card>
-  <Card title="Remove Timeout Command" icon="clock" iconType="solid" color="#396cc9">
+  <Card title="Remove Timeout" icon="clock" iconType="solid" color="#396cc9">
     \!removetimeout (user) \<reason\>
 
     \!removetimeout @mxybecookie idk
   </Card>
-  <Card title="Purge Command" icon="trash" iconType="solid" color="#396cc9">
+  <Card title="Purge" icon="trash" iconType="solid" color="#396cc9">
     \!purge (amount)
 
     \!purge 99
   </Card>
-  <Card title="Setnick Command" icon="paintbrush" iconType="solid" color="#396cc9">
+  <Card title="Setnick" icon="paintbrush" iconType="solid" color="#396cc9">
     \!setnick (user) (nickname)
 
     \!setnick @mxybecookie cookie
+  </Card>
+  <Card title="Role" icon="User" iconType="solid" color="#396cc9">
+    \!role (user) (role)\
+    \!role @mxybecookie founder
+  </Card>
+  <Card title="Kick" icon="minus" iconType="solid" color="#396cc9">
+    \!kick (user) \<reason\>
+
+    \!kick @mxybecookie being bad
+  </Card>
+  <Card title="Ban" icon="hammer" iconType="solid" color="#396cc9">
+    \!ban (user) \<reason\>
+
+    \!ban @mxybecookie breaking server rules
+  </Card>
+</CardGroup>
+
+## Fun
+
+<CardGroup cols="2">
+  <Card title="Quote" icon="quote-right" iconType="solid" color="#396cc9">
+    Reply to a message and send \!quote
+  </Card>
+  <Card title="Truth or Dare" icon="cards" iconType="solid" color="#396cc9">
+    Send \!tod to a channel to start truth or dare
+  </Card>
+  <Card title="Gun" icon="gun" iconType="solid" color="#396cc9">
+    \!gun (user)
+
+    \!gun @mxybecookie
+  </Card>
+  <Card title="Troll Jail" icon="barcode" iconType="solid" color="#396cc9">
+    \!jail (user)
+
+    \!jail @mxybecookie
+  </Card>
+  <Card title="Fake Fact" icon="book" iconType="solid" color="#396cc9">
+    \!fakefact (fact)\
+    \!factfact your fat
+  </Card>
+  <Card title="Pet" icon="dog" iconType="solid" color="#396cc9">
+    \!pet (user)\
+    \!pet @mxybecookie
+  </Card>
+</CardGroup>
+
+## Other
+
+<CardGroup cols="2">
+  <Card title="Timezone" icon="clock" iconType="solid" color="#396cc9">
+    \!timezone/\!tz \<user\>
+
+    \!tz @mxybecookie
+  </Card>
+  <Card title="Snipe" icon="plus" iconType="solid" color="#396cc9">
+    \!snipe \<index\>\
+    \!snipe 5
+  </Card>
+  <Card title="AFK" icon="moon" iconType="solid" color="#396cc9">
+    \!afk \<reason\>\
+    \!afk sleeping
+  </Card>
+  <Card title="Member Count" icon="users" iconType="solid" color="#396cc9">
+    \!members
+
+    \!membercount
   </Card>
 </CardGroup>
