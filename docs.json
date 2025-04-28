@@ -26,8 +26,6 @@
                         "pages": [
                             "/commands/overview",
                             "/commands/images",
-                            "/commands/settings",
-                            "/commands/navigation",
                             "/commands/reusable-snippets"
                         ]
                     }
